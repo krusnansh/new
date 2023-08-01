@@ -11,7 +11,7 @@ Regular --
 > add .           
 > commit -m " "   - add to local  
 > push            - add to remote  ( can be used after commit only)
-> pull            - get changes done by other developer
+> pull            - get from remote
 
 
 check -- 
