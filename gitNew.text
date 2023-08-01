@@ -1,15 +1,17 @@
 first time --
-
+> init
+> git remote add origin ---link of repo---
+> git push -u origin master --- it will always push to the master branch ---
 
 
 
 
 
 normal --
-> add .
-> commit -m " "
-> push
-> pull
+> add .           
+> commit -m " "   - add to local  
+> push            - add to remote  ( can be used after commit only)
+> pull            - get changes done by other developer
 
 
 check -- 
