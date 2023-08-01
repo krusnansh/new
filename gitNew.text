@@ -7,7 +7,7 @@ first time --
 
 
 
-normal --
+Regular --
 > add .           
 > commit -m " "   - add to local  
 > push            - add to remote  ( can be used after commit only)
@@ -18,3 +18,9 @@ check --
 > remote
 > status 
 > log  - press q to exit   / ctrl + c
+
+
+Branches --
+> branch                        - check all Branches
+> branch name                   - make new branch of name3
+> checkout branch_name          - switch branches 
