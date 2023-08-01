@@ -1,7 +1,7 @@
 first time --
 > init
-> git remote add origin ---link of repo---
-> git push -u origin master --- it will always push to the master branch ---
+> remote add origin ---link of repo---
+> push -u origin master --- it will always push to the master branch ---
 
 
 
@@ -10,7 +10,7 @@ first time --
 Regular --
 > add .           
 > commit -m " "   - add to local  
-> push            - add to remote  ( can be used after commit only)
+> push            - add to remote  ( can be used after commit only  and will push to branch with which -u is used lastime)
 > pull            - get from remote
 
 
@@ -24,3 +24,4 @@ Branches & Merges --
 > branch                        - check all Branches
 > branch name                   - make new branch of name3
 > checkout branch_name          - switch branches 
+> push origin branch_name   - push a specific branch to Git hub
