@@ -20,7 +20,7 @@ check --
 > log  - press q to exit   / ctrl + c
 
 
-Branches --
+Branches & Merges --
 > branch                        - check all Branches
 > branch name                   - make new branch of name3
 > checkout branch_name          - switch branches 
