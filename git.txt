@@ -1,0 +1,33 @@
+( )- are used for explanation  { }- are used for example  
+
+1- git init  (to start using git or start traking folder)
+2- git status ( tells about whther the files are in working directory stage or at staging or commited)
+3- git add {single name or for all use . } (add file to stage area , . is used to select whole current directory )
+4- git commit -m "{name of the the commit }" (all files add to commit history ,  write name inside "")
+4- git reset HEAD -- {file name} (if you want to unstage a file or reset the staged file)
+5- git log (to check the author and the time of commit)
+6- git branch ( * tells in which branch we are  )
+    - use git branch {branch1} (to make a branch named branch1 )
+7- git checkout {branch1} (used to change current branch)
+8- git log --all (to check all the branch current branch not showing on the pc)
+9- git merge {branch1} (this will merge the named branch to current branch)
+10- git branch -d {branch1} (delete a branch branch1 is an example)
+11- git remote (to see the remote connections)
+12-git remote add {any repositary name} link of repositorey (to add a new repositorey)
+13- git push {the same any name} {branch in which we are working} (to add to the github)
+14- git clone {link} (it will clone the whole repositorey) (optional name of the folder u decide )
+15- git fetch {name} (to call the data)
+16-  git log --remotes    (check remote log)
+17- git merge {name branch} (to merge the remote and the local file )
+18- git pull {remote_repo_name branch} (skips 15 16 17  for remote repositorey)
+19- git remote remove {name} (remove the repository in the remote)
+
+-------
+add , commit -m " "  ,push origin master, pull / pull  origin master  , 
+
+use cd(helps to navigate folder) to update only some folders 
+-------
+
+
+- clear (to clear the terminal)
+- q (to end git log)
